@@ -1,6 +1,6 @@
 
 
-````markdown
+``markdown
 # 📝 Blog Application (Full Stack Assignment)
 
 A full-stack blog platform where users can **sign up, log in, create, edit, delete blogs** and view all published blogs.  
@@ -34,7 +34,7 @@ Built with **Django REST Framework (backend)** and **React (frontend)**.
    ```bash
    git clone <your-repo-url>
    cd blog/backend
-````
+``
 
 2. Create virtual environment & install dependencies:
 
@@ -118,7 +118,7 @@ Built with **Django REST Framework (backend)** and **React (frontend)**.
 
 ## 👨‍💻 Author
 
-* **Your Name**
+* **G Sujith Kumar**
 * B.Tech CSE (4-1 Semester)
 * Skills: Python, Django, React, Data Science, AI
 
