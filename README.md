@@ -119,7 +119,6 @@ Built with **Django REST Framework (backend)** and **React (frontend)**.
 ## 👨‍💻 Author
 
 * **G Sujith Kumar**
-* B.Tech CSE (4-1 Semester)
 * Skills: Python, Django, React, Data Science, AI
 
 ```
