@@ -1,0 +1,46 @@
+# --- Python / Django ---
+__pycache__/
+*.py[cod]
+*.sqlite3
+db.sqlite3
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.swp
+*.swo
+.env
+venv/
+env/
+*.egg-info/
+*.egg
+*.cover
+.coverage
+htmlcov/
+.mypy_cache/
+.pytest_cache/
+
+# --- Django media/static ---
+/media/
+/staticfiles/
+/static/
+
+# --- React / Node ---
+frontend/node_modules/
+frontend/.pnp
+frontend/.pnp.js
+frontend/package-lock.json
+frontend/yarn.lock
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/dist/
+
+# --- IDE / OS files ---
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
