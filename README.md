@@ -1,8 +1,6 @@
 
 
----
-
-markdown
+````markdown
 # 📝 Blog Application (Full Stack Assignment)
 
 A full-stack blog platform where users can **sign up, log in, create, edit, delete blogs** and view all published blogs.  
@@ -124,11 +122,8 @@ Built with **Django REST Framework (backend)** and **React (frontend)**.
 * B.Tech CSE (4-1 Semester)
 * Skills: Python, Django, React, Data Science, AI
 
----
-
 ```
 
 ---
 
-👉 Do you want me to also generate a **`requirements.txt`** for your Django backend and a **minimal `package.json` snippet** for React so everything is ready to share in GitHub?
 ```
