@@ -1,9 +1,8 @@
-Perfect bro 🚀 glad your project is running fine now.
-Here’s a clean **README.md** template tailored for your blog app assignment:
+
 
 ---
 
-````markdown
+markdown
 # 📝 Blog Application (Full Stack Assignment)
 
 A full-stack blog platform where users can **sign up, log in, create, edit, delete blogs** and view all published blogs.  
